@@ -42,7 +42,7 @@ conda list
 
 # 6. Installing Additional Packages
 # The 'conda install' command installs additional packages into the active environment.
-conda install matplotlib seaborn
+conda install matplotlib seaborn wget ipykernel nbconvert
 
 # Explanation:
 # - 'matplotlib' and 'seaborn' are data visualization libraries.
